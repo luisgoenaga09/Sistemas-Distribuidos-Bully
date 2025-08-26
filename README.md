@@ -1,0 +1,1 @@
+Practica de Sistemas Distribuidos 2024-2025 en la Universidad de Salamanca. Implementé el algoritmo bully en java, con tres ordenadores y 2 procesos en cada ordenador, con la opcion de añadir mas ordenadores o procesos. Se realizó usando REST.
